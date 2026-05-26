@@ -9,8 +9,11 @@
 
 
 <h2>Languages and Utilities Used</h2>
+
 - <b>EasyEDA</b>
-- <b>Arduino</b> 
+
+- <b>Arduino</b>
+  
 - <b>OnShape</b>
 
 
