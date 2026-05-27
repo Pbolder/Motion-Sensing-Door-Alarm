@@ -21,39 +21,33 @@ Created a motion-sensing door alarm using components from the school makerspace 
 
 <p align="center">
 Code: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="images/CodeDA.png" width="80%" alt="Motion-sensing door alarm Arduino code"/>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+<br />
+<br />
+<p align="center">
+Breadboard Prototype:
+<br />
+<br />
+<img src="images/PwireAD.png" width="67%" alt="Prototype wiring for motion-sensing door alarm"/>
+The device used a speaker, MP3 player module, audio amplifier, and LCD screen to play alarm audio and display system status information. A battery pack and buck converter powered the system, while onboard buttons allowed the user to arm and control the device.
+<br />
+<br />
+<p align="center">
+EasyEDA PCB:
+<br />
+<br />
+<img src="images/PCBDA.png" width="80%" alt="Custom PCB design for motion-sensing door alarm"/>
+
+
+<br />
+<br />
+<p align="center">
+completed project:
+<br />
+<br />
+<img src="images/FwireDA.JPG" width="67%" alt="Final wiring inside motion-sensing door alarm"/>
+<img src="images/FinalDA.jpeg" width="80%" alt="Completed motion-sensing door alarm project"/>
+<br />
+<br />
