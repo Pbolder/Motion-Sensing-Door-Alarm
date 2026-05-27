@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
--
+Created a motion-sensing door alarm using components from the school makerspace and a custom PCB. The system detected motion and played audio files stored on an SD card when triggered. The project was developed for an introductory engineering course and was well received by the professor, who kept the device to demonstrate to future classes.  
 <br />
 
 
@@ -14,13 +14,13 @@
 
 - <b>Arduino</b>
   
-- <b>OnShape</b>
+- <b>Tinkercad</b>
 
 
 <h2>Design and Build Process:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Code: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
