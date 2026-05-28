@@ -21,7 +21,9 @@ Created a motion-sensing door alarm using components from the school makerspace 
 
 <p align="center">
 Code: <br/>
-<img src="images/CodeDA.png" width="80%" alt="Motion-sensing door alarm Arduino code"/>
+<img src="images/CodeDA.png" width="60%" alt="Motion-sensing door alarm Arduino code"/>
+
+The Arduino code continuously monitors an accelerometer for movement while the system is armed. When motion above a set threshold is detected, the alarm sequence is triggered, causing audio to play. The program also includes an arming countdown sequence and a timed cooldown period displayed on LCD before the system automatically rearms itself.
 
 
 <br />
@@ -30,8 +32,9 @@ Code: <br/>
 Breadboard Prototype:
 <br />
 <br />
-<img src="images/PwireAD.png" width="67%" alt="Prototype wiring for motion-sensing door alarm"/>
-The device used a speaker, MP3 player module, audio amplifier, and LCD screen to play alarm audio and display system status information. A battery pack and buck converter powered the system, while onboard buttons allowed the user to arm and control the device.
+<img src="images/PwireAD.png" width="50%" alt="Prototype wiring for motion-sensing door alarm"/>
+ 
+The device used a speaker, MP3 player module, audio amplifier, and LCD screen to play alarm audio and display system status information. A MPU6050 sensor was used to detect door motion and trigger the alarm. A battery pack and buck converter powered the system, while onboard buttons allowed the user to arm and control the device.
 <br />
 <br />
 <p align="center">
@@ -47,7 +50,7 @@ EasyEDA PCB:
 completed project:
 <br />
 <br />
-<img src="images/FwireDA.JPG" width="67%" alt="Final wiring inside motion-sensing door alarm"/>
-<img src="images/FinalDA.jpeg" width="80%" alt="Completed motion-sensing door alarm project"/>
+<img src="images/FwireDA.JPG" width="40%" alt="Final wiring inside motion-sensing door alarm"/>
+<img src="images/FinalDA.jpeg" width="40%" alt="Completed motion-sensing door alarm project"/>
 <br />
 <br />
