@@ -54,3 +54,7 @@ completed project:
 <img src="images/FinalDA.jpeg" width="40%" alt="Completed motion-sensing door alarm project"/>
 <br />
 <br />
+
+<h1>Author</h1>
+
+Designed and built by [Paul Bolder](https://github.com/Pbolder).
